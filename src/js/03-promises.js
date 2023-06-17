@@ -38,6 +38,8 @@ function onSubmitForm(e) {
       });
     delay += step;
   }
+
+  e.currentTarget.reset();
 }
 
 function createPromise(position, delay) {
