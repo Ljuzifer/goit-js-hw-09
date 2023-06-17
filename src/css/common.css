@@ -39,6 +39,12 @@ li a {
   cursor: pointer;
 }
 
+a:hover,
+a:focus {
+  background-color: #adadad;
+  border: 2px solid #adadad;
+}
+
 body {
   text-align: center;
   background-color: #8396ab;
