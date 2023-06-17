@@ -43,7 +43,7 @@ a {
 a:hover,
 a:focus {
   background-color: #adadad;
-  border: 2px solid #adadad;
+  border: 1px solid #adadad;
 }
 
 body {
@@ -95,13 +95,13 @@ button {
 button:disabled {
   color: #30363d;
   background-color: #adadad;
-  border: 2px solid #adadad;
+  border: 1px solid #adadad;
 }
 
 button:hover,
 button:focus {
   background-color: #adadad;
-  border: 2px solid #adadad;
+  border: 1px solid #adadad;
 }
 
 .timer {
