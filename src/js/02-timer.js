@@ -3,7 +3,6 @@ import 'flatpickr/dist/flatpickr.min.css';
 import 'flatpickr/dist/themes/dark.css';
 import { Report } from 'notiflix/build/notiflix-report-aio';
 
-document.body.style.backgroundColor = '#8396ab';
 const COUTDOWN_TIMER_DELAY = 1000;
 let intervalId = null;
 let selectedDate = null;
