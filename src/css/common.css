@@ -20,7 +20,23 @@ img {
 /* Countdown Timer */
 
 ul {
+  display: flex;
+  justify-content: space-around;
   list-style: none;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 20px;
+  color: #161b22;
+  width: 400px;
+  background-color: lightgreen;
+  border: 1px solid #161b22;
+  border-radius: 13px;
+  cursor: pointer;
 }
 
 body {
